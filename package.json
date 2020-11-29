@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Neffy88/ZTM/issues"
   },
-  "homepage": "https://github.com/Neffy88/ZTM#readme"
+  "homepage": "https://github.com/Neffy88/ZTM#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }

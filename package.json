@@ -1,0 +1,19 @@
+{
+  "name": "ztm",
+  "version": "1.0.0",
+  "description": "This is my Zero to MAstery Project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neffy88/ZTM.git"
+  },
+  "author": "Christopher Neff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neffy88/ZTM/issues"
+  },
+  "homepage": "https://github.com/Neffy88/ZTM#readme"
+}
